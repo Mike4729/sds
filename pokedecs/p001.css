@@ -1,0 +1,35 @@
+.car {
+    position: relative;
+    right: -900px;
+    background-color: brown;
+}
+body {
+    background-color: #a52a2a;
+}
+.stats {
+    position: relative;
+    top: -250px;
+    padding: 200px 50px;
+    background-color: #a52a2a;
+
+}
+.carmin {
+    position: relative;
+    right: -450px;
+    
+}
+.carminmin {
+    position: relative;
+    right: -200px;
+}
+.carminminmin {
+    position: relative;
+    right: 0;
+}
+.cars {
+    position: relative;
+    top: -250px;
+    right: 500;
+    padding: 200px 50px;
+    
+}

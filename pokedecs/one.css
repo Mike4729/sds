@@ -1,0 +1,14 @@
+body {
+    background-color: #00ffaa;
+
+}
+button {
+    padding: 20px 50px ;
+    position: relative;
+    left: 550px;
+    top: 350px;
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+
+
